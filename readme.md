@@ -9,6 +9,7 @@ Only HTML5 and CSS3 ... NO JAVASCRIPT! NO BOOTSTRAP!
 NO IMAGES ... created an SVG Icon System using Iconic Open
 
 Used the "Checkbox Hack" for Sidebar and Footer
+
 I only use Flat UI Colors
 
 
